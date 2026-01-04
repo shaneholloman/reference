@@ -7,7 +7,7 @@ tags:
   - Display
   - Productivity
 categories:
-  - Web Tools
+  - Other
 intro: A quick reference collection of full-screen color pages, monitor tests, prank screens, screensavers, and timers.
 plugins:
   - copyCode
